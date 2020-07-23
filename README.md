@@ -1,2 +1,2 @@
 # ibm-watson-studio
-Link repo to IBM Watson Studio for IMB certification course
+Link repo to IBM Watson Studio for IBM certification course
